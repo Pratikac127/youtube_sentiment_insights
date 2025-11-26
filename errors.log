@@ -1,0 +1,5 @@
+2025-11-25 17:28:19,834 - data_ingestion - ERROR - File not found: D:\Study Materials\MLOps\youtube_sentiment_insights\src\data\../../params.yaml
+2025-11-25 17:28:19,839 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'D:\\Study Materials\\MLOps\\youtube_sentiment_insights\\src\\data\\../../params.yaml'
+2025-11-25 17:30:45,073 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-11-25 17:30:45,074 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-11-25 17:31:16,426 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 11001] getaddrinfo failed>
