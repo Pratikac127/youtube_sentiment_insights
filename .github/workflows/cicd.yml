@@ -37,7 +37,7 @@ jobs:
         pytest
 
   build-and-publish:
-    needs: build_and_test
+    needs: build-and-test
     runs-on: ubuntu-latest
 
     steps:
